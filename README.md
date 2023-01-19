@@ -1,5 +1,5 @@
 # Simple-RSA-Encryptor-And-Decryptor
-This repo name is self-explanatory. This software could encrypt and/or decrypt some file(s). Look at below for more info on how to use this. DO NOT USE THIS FOR HIGH SECURITY APPS AND I AM NOT RESPONSIBLE FOR ANY HARM CAUSED TO ANYONE OR ANYTHING BY USING THIS CODE.  This is some beginner level code but you can still post issues about this program.
+This repo name is self-explanatory. This software could encrypt and/or decrypt file(s). Look at below for more info on how to use this. DO NOT USE THIS FOR HIGH SECURITY APPS AND I AM NOT RESPONSIBLE FOR ANY HARM CAUSED TO ANYONE OR ANYTHING BY USING THIS CODE.  This is some beginner level code but you can still post issues about this program.
 
 
 ## Generating A Key Pair
