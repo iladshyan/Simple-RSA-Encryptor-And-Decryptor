@@ -1,5 +1,3 @@
-# This is Debug code and not need to be distributed
-
 with open("outenc.txt", "rb") as in_file:
     data = in_file.read()
 

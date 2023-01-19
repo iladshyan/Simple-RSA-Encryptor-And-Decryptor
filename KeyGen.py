@@ -4,8 +4,6 @@ from cryptography.hazmat.primitives.asymmetric import rsa, padding
 print('Enter A password to protect private key. WARNING IF YOU LOSE THIS PASSWORD YOU CANNOT DECRYPT AN FILES ENCRYPTED WITH PUBLIC KEY CORRESPONDING TO THIS PRIVATE KEY')
 password = input("Password :")
 
-
-
 private_key = rsa.generate_private_key(
     public_exponent=65537,
     key_size=2048
