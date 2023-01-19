@@ -6,7 +6,7 @@ This repo name is self-explanatory. This software could encrypt and/or decrypt s
 
  1. First Run `KeyGen.py`
  2. It will ask you for a password. Enter a secure and memorable password. 
-      **WARNING** - IF YOU LOSE THIS PASSWORD YOU CANNOT DECRYPT AN FILES ENCRYPTED WITH PUBLIC KEY CORRESPONDING TO THIS PRIVATE KEY
+      **WARNING** - IF YOU LOSE THIS PASSWORD YOU CANNOT DECRYPT ANY FILES ENCRYPTED WITH PUBLIC KEY CORRESPONDING TO THIS PRIVATE KEY
       
  3. The code will generate two key pair files called `pr.pem` and `pu.pem`
  4. `pu.pem` is unencrypted Public Key
